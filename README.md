@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently a college student.<br>Computer Science and Engineering
+
 # 💫 About Me:
 I'm currently a college student.<br>Computer Science and Engineering
 
